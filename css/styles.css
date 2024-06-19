@@ -384,7 +384,6 @@ footer{
         left: 0;
         top: 103px;
         width: 100%;
-        display: none;
       }
       nav a{
         cursor: pointer;
@@ -421,6 +420,9 @@ footer{
     }
     .sectionconocenos {
         padding-top: 80px;
+    }
+    .hidemobile{
+        display: none;
     }
     
     
@@ -477,4 +479,5 @@ footer{
     .sectionhome{
         padding-top: 100px;
     }
+  
   }
